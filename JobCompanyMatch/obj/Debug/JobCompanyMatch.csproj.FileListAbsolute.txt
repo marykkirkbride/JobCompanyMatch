@@ -1,0 +1,7 @@
+C:\Users\Mary Kirkbride\Documents\Github\JobCompanyMatch\JobCompanyMatch\bin\Debug\JobCompanyMatch.exe.config
+C:\Users\Mary Kirkbride\Documents\Github\JobCompanyMatch\JobCompanyMatch\bin\Debug\JobCompanyMatch.exe
+C:\Users\Mary Kirkbride\Documents\Github\JobCompanyMatch\JobCompanyMatch\bin\Debug\JobCompanyMatch.pdb
+C:\Users\Mary Kirkbride\Documents\Github\JobCompanyMatch\JobCompanyMatch\obj\Debug\JobCompanyMatch.csprojAssemblyReference.cache
+C:\Users\Mary Kirkbride\Documents\Github\JobCompanyMatch\JobCompanyMatch\obj\Debug\JobCompanyMatch.csproj.CoreCompileInputs.cache
+C:\Users\Mary Kirkbride\Documents\Github\JobCompanyMatch\JobCompanyMatch\obj\Debug\JobCompanyMatch.exe
+C:\Users\Mary Kirkbride\Documents\Github\JobCompanyMatch\JobCompanyMatch\obj\Debug\JobCompanyMatch.pdb
